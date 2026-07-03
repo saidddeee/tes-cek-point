@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 20px;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h1 {
+    text-align: center;
+    color: #333;
+}
+.biodata {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+}
+.biodata p {
+    line-height: 1.5;
+}
+.gambar-said {
+    border: 2px solid #333; /* garis tepi */
+    width: 150px; /* ukuran gambar */
+    height: auto; /* otomatis sesuai proporsi gambar */
+}
